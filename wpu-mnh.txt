@@ -1,2 +1,3 @@
 WPU RESOLUSI
-Konsisten dalam pembelajaran source code
+-Konsisten dalam pembelajaran source code
+-menguatkan pengetahuan fundamental coding
